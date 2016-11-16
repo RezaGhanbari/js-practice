@@ -1,0 +1,22 @@
+{
+  "name": "first_app",
+  "version": "1.0.0",
+  "description": "first node.js application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha test"
+
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Reza",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "0.0.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2"
+  }
+}
